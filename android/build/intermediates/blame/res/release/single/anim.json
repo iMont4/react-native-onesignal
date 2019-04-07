@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/fade_out.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/399e64e7337dfc29d523dfde1ad96002/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/slide_up.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/399e64e7337dfc29d523dfde1ad96002/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/fade_in.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/399e64e7337dfc29d523dfde1ad96002/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/399e64e7337dfc29d523dfde1ad96002/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/399e64e7337dfc29d523dfde1ad96002/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/slide_down.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/react-native-0.49.3.aar/399e64e7337dfc29d523dfde1ad96002/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/imohammad/Developer/Projects/KS/App/node_modules/react-native-onesignal/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/imohammad/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/6cc784b2ef3ae74280d4bbf6b2549804/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]
